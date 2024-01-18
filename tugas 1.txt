@@ -1,3 +1,8 @@
+Nama	: Bonanda Siregar
+Nim 	: 09021382126135
+jurusan	: Teknik Informatika Bilingual  
+
+
 1. sejarah definisi iot (Internet Of Things):
 
 Konsep Internet of Things (IoT) pertama kali muncul pada tahun 1999 oleh Kevin Ashton, seorang peneliti di Auto-ID Labs yang sedang bekerja pada proyek identifikasi menggunakan Radio Frequency Identification (RFID). Ashton memperkenalkan istilah "Internet of Things" untuk menjelaskan cara objek di sekitar kita dapat berkomunikasi melalui internet. Sejak itu, definisi IoT terus berkembang seiring dengan perkembangan teknologi dan implementasi di berbagai industri
